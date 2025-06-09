@@ -31,7 +31,7 @@ This project provides a set of Jupyter Notebooks dedicated to the cleaning and p
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/gene-expression-datasets-cleaning.git
+git clone https://github.com/ines22b/gene-expression-datasets-cleaning.git
 cd gene-expression-datasets-cleaning
 ```
 
